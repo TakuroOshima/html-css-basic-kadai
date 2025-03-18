@@ -79,4 +79,9 @@ a:hover {
     display: flex;
     flex-direction: column;
   }
+
+  .contents img{
+  width:100%;
+  }
 }
+
